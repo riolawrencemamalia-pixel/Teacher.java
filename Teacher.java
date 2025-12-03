@@ -5,7 +5,7 @@ public class Teacher {
 
     public static void main(String[] args) {
         Teacher teacher = new Teacher();
-        teacher.name = "Philip John Belp";
+        teacher.name = "Philip John Belo";
         teacher.age = 25;
         teacher.subject = "Programming";
     
